@@ -1,0 +1,17 @@
+button {
+    padding: 10px;
+    background-color: cadetblue;
+    margin: 10px;
+}
+
+#graph {
+    display: flex;
+}
+
+.resultBox {
+    height: 7rem;
+    width: 7rem;
+    background-color: crimson;
+    color: wheat;
+    margin: 10px;
+}
